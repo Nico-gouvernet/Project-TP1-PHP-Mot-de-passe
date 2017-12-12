@@ -11,6 +11,6 @@
             <input type="submit" value="Valider" />
             </p>
         </form>
-        <p> Si vous ne travaillez chez TF1 ;) , inutile d'insister vous ne trouverez jamais le mot de passe ! pouur acceder au archives du JT;-)</p>
+        <p> Si vous ne travaillez pas chez TF1 ;) , inutile d'insister vous ne trouverez jamais le mot de passe ! pouur acceder au archives du JT;-)</p>
 </body>
 </html>
